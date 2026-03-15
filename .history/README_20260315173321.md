@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # takeaway
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -27,3 +28,7 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# takeaway-fronted
+外卖项目的前端vue界面
+>>>>>>> 4e39b340611a1341074a568595b6bc4ae9c2bc8d
